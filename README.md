@@ -1,6 +1,7 @@
 
 # Olá, me chamo João Pedro Guedes Barbieri Salvatti Vaz de Arruda!
 ### Bem vindo ao meu perfil GitHub 👋
+  Meu nome é joão Pedro, mas todo mundo me chama de guedes, sou aluno do SESI SENAI cursando no segundo esino medio, aprendemos css3 html5 e javascript. Fizemos alguns projetos com API, para puxar dados, e criação deu um site simples.
 ## Ferramentas e Tecnologias
 
 
